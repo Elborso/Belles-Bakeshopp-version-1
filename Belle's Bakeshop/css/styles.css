@@ -1,0 +1,208 @@
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+button {
+  margin: auto;
+  border: 1px solid;
+border-radius: 1em;
+background-color: white;
+  border-color: #DB7093;
+  height: 40px;
+  width: 80px;
+  margin-top: 10px;
+}
+form {
+  /* Center the form on the page */
+  margin: auto;
+  width: 400px;
+  text-align: center;
+  /* Form outline */
+
+}
+
+
+h1 {
+  font-family: monospace;
+  font-size: 200%;
+  text-align: center;
+  color: #DB7093;
+}
+
+input {
+  width: 400px;
+  height: 250px;
+  border: 1px solid;
+  border-radius: 1em;
+    border-color: #DB7093;
+    text-align: center;
+    font-family: monospace;
+
+}
+
+p {
+  font-family: monospace;
+  font-size: 140%;
+  color: #DB7093;
+  width: 350px;
+
+}
+
+
+
+.menubar {
+  background-color: #FFB6C1;
+  margin-top: 0;
+  padding: 10px 0 1px 10px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 50px;
+}
+
+.h1-menubar {
+  font-family: monospace;
+  margin-top: 0;
+  font-size: 160%;
+position: absolute;
+  display: inline-block;
+  left: 30px;
+  top: 17px;
+  color: black;
+}
+
+.img-menubar {
+  height: 35px;
+  width: auto;
+  position: absolute;
+
+  left: 250px;
+  top: 12px;
+  border-radius: 15px;
+}
+
+.a-menubar {
+  position: absolute;
+
+  right: 40px;
+  top: 20px;
+  display: inline-block;
+}
+
+.a-menu {
+  margin: 15px;
+  font-family: monospace;
+  font-size: 120%;
+}
+
+.a-menu:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.top-container {
+
+height: 400px;
+  padding-top: 100px;
+  text-align: center;
+
+}
+
+.div-bio {
+display: inline-block;
+margin-top: 40px;
+
+}
+
+.p-bio {
+  display: inline-block;
+  text-align: left;
+}
+
+.img-chellie {
+  height: 230px;
+  width: auto;
+  margin-right: 10px;
+  border-radius: 2em;
+  display: inline-block;
+  float: left;
+}
+
+.middle-container {
+background-color: #FFC0CB;
+padding: 20px;
+display: block;
+}
+
+.div-bakingphotos {
+  margin: auto;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.p-img {
+  text-align: center;
+    margin: 50px auto;
+}
+
+.img-baking {
+  height: 250px;
+  width: auto;
+  border-radius: 3rem;
+  padding: 5px;
+  margin: auto;
+}
+
+.instagram-link {
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.a-instagram {
+  font-size: 1.5rem;
+  font-family: monospace;
+  color: #DB7093;
+}
+
+.a-instagram:hover {
+  color: white;
+  text-decoration: underline;
+}
+.bottom-container {
+  padding-bottom: 20px;
+}
+
+.p-form {
+  text-align: center;
+    margin: 50px auto;
+}
+.footer {
+  height: 90px;
+  background-color: #FFC0CB;
+  display: block;
+  text-align: center;
+}
+
+.img-footer {
+  height: 30px;
+  width: auto;
+padding-top: 20px;
+padding-right: 20px;
+}
+
+.p-footer {
+  margin: 0;
+  font-size: 10px;
+  display: inline-block;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  width: auto;
+}
+.footer-link {
+
+}
